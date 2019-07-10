@@ -1,0 +1,26 @@
+body{
+	
+}
+
+
+header{
+	background-image:url(../img/moon.jpg);
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	position:relative;
+	color:#F8D775;
+}
+.vh{
+	min-height:100vh;
+}
+
+#particles-js{
+	width:100%;
+	height:100%;
+	position:absolute;
+	left:0;
+	top:0;
+}
+
